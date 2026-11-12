@@ -1,16 +1,21 @@
-## Hi there 👋
+# 💫 About Me:
+## About Me<br><br>I am a Computer Science and Engineering student at Leading University, Sylhet, Bangladesh, currently in my second year and final semester, with a CGPA of 3.72.<br><br>I am passionate about technology, research, innovation, and personal development. I enjoy exploring new ideas, learning new skills, and working on projects that help me grow both personally and professionally.<br><br>### Currently Working On<br>- Working on publishing my own project.<br>- Researcher at DeepNet Platform.<br>- Learning the fundamentals of academic research.<br>- Exploring automation and workflow management.<br>- Developing skills in social media management.<br>- Exploring prompt engineering and AI-powered solutions.<br><br>### Technical Skills<br>- **Programming Languages:** C, C++, Python, Java.<br>- **Microsoft Office:** Good working knowledge of Microsoft Word, Excel, PowerPoint, and other Office tools.<br>- **Other Interests:** Artificial Intelligence, Prompt Engineering, Automation, and Social Media Management.<br><br>### Language Proficiency<br>- Bangla – Fluent<br>- English – Fluent<br><br>### Leadership and Social Activities<br><br>I am an Executive Member of the Leading University Social Service Club. I enjoy volunteering, supporting people in need, and contributing positively to society. I believe even a small effort can make a meaningful difference in someone's life.<br><br>### Teaching Experience<br><br>I teach Mathematics to students in Classes 5, 6, and 7 at an orphan hostel. Teaching has helped me develop leadership, patience, communication, and a strong sense of responsibility.<br><br>I was honored with the Best Teacher of the Year Award in 2026.<br><br>### Interests<br>- Computer Science and Engineering<br>- Academic Research<br>- Artificial Intelligence and Prompt Engineering<br>- Automation and Workflow Optimization<br>- Social Media Management<br>- Problem Solving<br>- Technology and Innovation<br>- Community Service<br><br>### My Goal<br><br>I am continuously learning, exploring opportunities, and working towards building a better future. My goal is to develop meaningful skills, contribute to the tech community, help others, and turn my ideas into reality.<br><br>I believe in continuous learning, taking responsibility, and becoming a better version of myself every day.
 
-<!--
-**Roranoa-zoro-Riad/Roranoa-zoro-Riad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@ZoroTube-RIO19) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Mohammad) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:riad.chy232@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Roranoa-zoro-Riad&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Roranoa-zoro-Riad&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Roranoa-zoro-Riad&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Roranoa-zoro-Riad&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://komarev.com/ghpvc/?username=Roranoa-zoro-Riad&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
