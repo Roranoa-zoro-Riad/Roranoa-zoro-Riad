@@ -1,7 +1,16 @@
-# 💫 About Me:
-## About Me<br><br>I am a Computer Science and Engineering student at Leading University, Sylhet, Bangladesh, currently in my second year and final semester, with a CGPA of 3.72.<br><br>I am passionate about technology, research, innovation, and personal development. I enjoy exploring new ideas, learning new skills, and working on projects that help me grow both personally and professionally.<br><br>### Currently Working On<br>- Working on publishing my own project.<br>- Researcher at DeepNet Platform.<br>- Learning the fundamentals of academic research.<br>- Exploring automation and workflow management.<br>- Developing skills in social media management.<br>- Exploring prompt engineering and AI-powered solutions.<br><br>### Technical Skills<br>- **Programming Languages:** C, C++, Python, Java.<br>- **Microsoft Office:** Good working knowledge of Microsoft Word, Excel, PowerPoint, and other Office tools.<br>- **Other Interests:** Artificial Intelligence, Prompt Engineering, Automation, and Social Media Management.<br><br>### Language Proficiency<br>- Bangla – Fluent<br>- English – Fluent<br><br>### Leadership and Social Activities<br><br>I am an Executive Member of the Leading University Social Service Club. I enjoy volunteering, supporting people in need, and contributing positively to society. I believe even a small effort can make a meaningful difference in someone's life.<br><br>### Teaching Experience<br><br>I teach Mathematics to students in Classes 5, 6, and 7 at an orphan hostel. Teaching has helped me develop leadership, patience, communication, and a strong sense of responsibility.<br><br>I was honored with the Best Teacher of the Year Award in 2026.<br><br>### Interests<br>- Computer Science and Engineering<br>- Academic Research<br>- Artificial Intelligence and Prompt Engineering<br>- Automation and Workflow Optimization<br>- Social Media Management<br>- Problem Solving<br>- Technology and Innovation<br>- Community Service<br><br>### My Goal<br><br>I am continuously learning, exploring opportunities, and working towards building a better future. My goal is to develop meaningful skills, contribute to the tech community, help others, and turn my ideas into reality.<br><br>I believe in continuous learning, taking responsibility, and becoming a better version of myself every day.
+## About Me
 
+Hey, I'm a Computer Science and Engineering student at Leading University, Sylhet, Bangladesh, with a CGPA of 3.72.
 
+Currently exploring technology, research, AI, automation, and prompt engineering. Working as a Researcher at DeepNet Platform and preparing to publish my own project.
+
+Beyond technology, I'm an Executive Member of the Leading University Social Service Club and a Mathematics teacher at an orphan hostel, teaching Classes 5–7. Honored with the Best Teacher of the Year Award 2026.
+
+I work with C, C++, Python, and Java, have a good command of Microsoft Office, and am fluent in English and Bangla.
+
+Passionate about learning, creating, helping others, and discovering new possibilities.
+
+*Learning every day. Building my future. Making a difference.*
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@ZoroTube-RIO19) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Mohammad) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:riad.chy232@gmail.com) 
 
